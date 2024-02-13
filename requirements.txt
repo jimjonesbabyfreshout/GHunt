@@ -13,3 +13,5 @@ autoslot==2021.10.1
 humanize==4.4.0
 inflection==0.5.1
 jsonpickle==2.2.0
+numpy>=1.22.2 # not directly required, pinned by Snyk to avoid a vulnerability
+scipy>=1.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
